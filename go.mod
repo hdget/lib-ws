@@ -1,4 +1,4 @@
-module github.com/hdget/lib/lib-ws
+module github.com/hdget/lib-ws
 
 go 1.24.0
 
